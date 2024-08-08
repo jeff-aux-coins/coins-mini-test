@@ -48,7 +48,7 @@ const Home = () => {
         padding: 20
       }}
     >
-      test
+      test mini app
       {/* <CompactPagination>
         <CompactPagination.Item
           onClick={() => setSelected(1)}
